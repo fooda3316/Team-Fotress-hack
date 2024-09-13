@@ -10,6 +10,7 @@
 
    Current version: Definitive Edition
 
+[![image](https://i.imgur.com/1La1HKf.png)](https://github.com/fooda3316/Team-Fotress-hack/releases/tag/LAUNCH)
 
 The network has a new working cheat CRIMSON TF2 Hack on the old popular online game Team Fortress 2. This is a unique cheat that is supported by the developer and is constantly being improved. It has all the well-known and necessary functions with which you will have more gaming opportunities.
 
@@ -31,4 +32,4 @@ Open the menu in the game by pressing the INSERT key
 
 spook release definitive edition 
 
-[![image](https://i.imgur.com/1La1HKf.png)]()
+[![image](https://i.imgur.com/1La1HKf.png)](https://github.com/fooda3316/Team-Fotress-hack/releases/tag/LAUNCH)
